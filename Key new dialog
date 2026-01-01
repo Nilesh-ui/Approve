@@ -1,2 +1,8 @@
-5339dd206b2f999e:31/12/2026
-e4cbe9294663c07d:31/12/2026
+[
+    {
+        "device_id": "e4cbe9294663c07d",
+        "key": "key",
+        "expirydate": "31-12-2026",
+        "Allowoffline": false
+    }
+]

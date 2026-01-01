@@ -4,5 +4,12 @@
         "key": "key",
         "expirydate": "31-12-2026",
         "Allowoffline": false
+    },
+    {
+        "device_id": "5339dd206b2f999e",
+        "key": "key",
+        "expirydate": "31-12-2026",
+        "Allowoffline": false
     }
+
 ]

@@ -34,5 +34,11 @@
         "key": "9771409044",
         "expirydate": "31-12-2026",
         "Allowoffline": false
+    },
+    {
+        "device_id": "fc0b9330c5cd9d5c",
+        "key": "Hari@1234",
+        "expirydate": "31-12-2026",
+        "Allowoffline": false
     }
 ]

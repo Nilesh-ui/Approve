@@ -14,19 +14,19 @@
     {
         "device_id": "83e1b870c7be45f5",
         "key": "12345",
-        "expirydate": "15-06-2026",
+        "expirydate": "15-06-2025",
         "Allowoffline": false
     },
     {
         "device_id": "2bc26bf21875e964",
         "key": "123456",
-        "expirydate": "15-06-2026",
+        "expirydate": "15-06-2025",
         "Allowoffline": false
     },
     {
         "device_id": "3655fe2a0df7fe8d",
         "key": "1234567",
-        "expirydate": "15-06-2026",
+        "expirydate": "15-06-2025",
         "Allowoffline": false
     }
 ]
